@@ -1,0 +1,32 @@
+{
+	"bot_port": 8081,
+	"bot_token": "",
+	"bot_mode": 0,
+	"start_message": "Привет, я бот для скачивания ранобэ\nОтправляйте по 1 ссылке\nКоманды в меню",
+	"allowed_sites": [
+		"eznovels.com",
+		"hotnovelpub.com",
+		"hub-book.com",
+		"lanovels.com",
+		"lightnoveldaily.com",
+		"noveltranslate.com",
+		"novelxo.com",
+		"ranobe.ovh",
+		"ranobelib.me",
+		"ranobes.com",
+		"renovels.org",
+		"ru.novelxo.com",
+		"royalroad.com",
+		"wattpad.com",
+		"younettranslate.com",
+		"xn--80ac9aeh6f.xn--p1ai",
+		"ранобэ.рф"
+	],
+	"allowed_formats": [
+		"fb2",
+		"epub"
+	],
+	"download": {
+		"simultaneously": 5
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"bot_port": 9081,
+	"bot_token": "",
+	"bot_mode": 0,
+	"start_message": "Привет, я бот для скачивания манги\nОтправляйте по 1 ссылке\nКоманды в меню",
+	"allowed_sites": [
+		"acomics.ru",
+		"hentailib.me",
+		"manga.ovh",
+		"mangalib.me",
+		"mangalib.org",
+		"test-front.mangalib.me",
+		"mangamammy.ru",
+		"readmanga.live",
+		"remanga.org"
+	],
+	"allowed_formats": [
+		"cbz"
+	],
+	"download": {
+		"simultaneously": 1,
+		"split_limit": 1048576000
+	}
+}
